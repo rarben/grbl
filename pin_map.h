@@ -89,7 +89,6 @@
     #define COOLANT_MIST_PORT  PORTC
     #define COOLANT_MIST_BIT   4 // Uno Analog Pin 4
   #endif  
-
   // NOTE: All pinouts pins must be on the same port
   #define PINOUT_DDR       DDRC
   #define PINOUT_PIN       PINC
